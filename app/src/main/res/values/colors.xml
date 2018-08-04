@@ -5,6 +5,7 @@
     <color name="colorAccent">#ED600E</color>
 
     <!-- Other colors -->
-    <color name="themeBG1">#F4FFFF</color>
+    <color name="themeBG1">#F2FFFF</color>
     <color name="themeBG2">#E8FFFF</color>
+    <color name="white">#ffffff</color>
 </resources>
